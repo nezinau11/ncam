@@ -1,0 +1,6 @@
+id: ncam
+name: ncam
+version: '0.3.0'
+author: Povilas https://nothing.lt
+icon: cat.png
+desc: Camera app with dithering filters
